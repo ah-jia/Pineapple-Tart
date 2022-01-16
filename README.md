@@ -2,7 +2,7 @@
 
 # PINEAPPLE TARTS
 
-![Ready to serve photo](images/ready-to-serve.png)
+![Ready to serve photo](images/ready-to-serve.jpg)
 
 ## FILLING:
 ### Ingredients

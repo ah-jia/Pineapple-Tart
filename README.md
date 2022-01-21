@@ -2,7 +2,9 @@
 
 # PINEAPPLE TARTS
 
-![Ready to serve photo](images/ready-to-serve.jpg)
+<a href="https://youtu.be/6r7q5tbpTCY"><img src=https://ah-jia.github.io/recipe-pineapple-tart/images/ready-to-serve.jpg width="750"></a>
+
+[Link to instructional video](https://youtu.be/6r7q5tbpTCY)
 
 ## FILLING:
 ### Ingredients

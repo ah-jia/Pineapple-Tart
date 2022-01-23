@@ -12,7 +12,7 @@
 - some cloves
 - small piece of cinnamon stick (optional)
 
-Cook till done, can add 1-2 tbsp of golden syrup to finish off for golen colour.
+Cook till done, can add 1-2 tbsp of golden syrup to finish off for golden colour.
 Cool completely.
 
 ## PASTRY:
